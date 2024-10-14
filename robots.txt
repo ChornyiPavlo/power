@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-up.dreamlikewl.com.ua/sitemap.xml
-Host: pin-up.dreamlikewl.com.ua
+Sitemap: http://pin-up.powerpitch9.com.ua/sitemap.xml
+Host: pin-up.powerpitch9.com.ua
